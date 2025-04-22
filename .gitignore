@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Dados
+data/raw/*.csv
+data/processed/*.csv
+
+# VS Code e sistema
+.vscode/
+.DS_Store
+Thumbs.db
+.qodo

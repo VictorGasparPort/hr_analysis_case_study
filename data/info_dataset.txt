@@ -1,0 +1,24 @@
+https://www.kaggle.com/datasets/shivan118/hranalysis
+HR Analysis Case Study
+Datasets used for learning Purpose
+About Dataset
+Context
+Problem Statement
+This is the HR datasets. In our dataset 50000 rows and 14 columns. Every year, around 5% of its employees have promoted in the company. so, we have the check employee is promoted or not?
+
+Columns Name
+employee_id
+department
+region
+education
+gender
+recruitment_channel
+no_of_trainings
+age previous_year_rating
+length_of_service
+KPIs_met >80%
+awards_won?
+avg_training_score
+is_promoted
+Inspiration
+Good luck and enjoy the learning!
