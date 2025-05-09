@@ -17,7 +17,7 @@ hr_analysis_case_study/
 │
 ├── sql/
 │   ├── advanced_queries/        # Consultas SQL avançadas
-│   ├── optmization_examples/    # Exemplos de otimização em SQL
+│   ├── optimization_examples/    # Exemplos de otimização em SQL
 │   ├── simple_queries/          # Consultas SQL simples
 │   └── table_creation_scripts/  # Scripts de criação de tabelas
 │
